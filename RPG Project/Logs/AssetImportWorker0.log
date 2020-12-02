@@ -776,3 +776,961 @@ Received Import Request.
 Start importing Assets/Game/UI/Components/Heading Text.prefab using Guid(a135733433d00764383f92010db79f87) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ebf0b435c0b132a3351eaefb166592') in 0.054880 seconds
   Import took 0.058010 seconds .
 
+========================================================================
+Received Import Request.
+  Time since last request: 923.642874 seconds.
+  path: Assets/Game/UI/Shops/Header.prefab
+  artifactKey: Guid(9889eaad5a2afd4489e74251674878cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/UI/Shops/Header.prefab using Guid(9889eaad5a2afd4489e74251674878cd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd586a137c708a2f168f029d9bb7686b6') in 0.024707 seconds
+  Import took 0.027907 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.382261 seconds.
+  path: Assets/Game/UI/Shops/Row.prefab
+  artifactKey: Guid(f06ec7c43bbf4cd4b8af027722164285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/UI/Shops/Row.prefab using Guid(f06ec7c43bbf4cd4b8af027722164285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd380a4aa5f97a390a65ce1e88e9d61a6') in 0.029265 seconds
+  Import took 0.031908 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001000 seconds.
+  path: Assets/Game/UI/Shops/Row.prefab
+  artifactKey: Guid(f06ec7c43bbf4cd4b8af027722164285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/UI/Shops/Row.prefab using Guid(f06ec7c43bbf4cd4b8af027722164285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd380a4aa5f97a390a65ce1e88e9d61a6') in 0.025841 seconds
+  Import took 0.028601 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 145.753734 seconds.
+  path: Assets/Game/UI/Shops/Row.prefab
+  artifactKey: Guid(f06ec7c43bbf4cd4b8af027722164285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/UI/Shops/Row.prefab using Guid(f06ec7c43bbf4cd4b8af027722164285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f5963d61f6aa98db484b4f9511a865c0') in 0.025545 seconds
+  Import took 0.029694 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 74.762599 seconds.
+  path: Assets/Game/UI/Shops/Row.prefab
+  artifactKey: Guid(f06ec7c43bbf4cd4b8af027722164285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Game/UI/Shops/Row.prefab using Guid(f06ec7c43bbf4cd4b8af027722164285) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'edfdf40336d32076140ffaa5b8e1ffde') in 0.024111 seconds
+  Import took 0.026492 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001226 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\Courses\RPG\RPG Redux\RPG Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.53 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.836 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.51 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1604 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 26 unused Assets to reduce memory usage. Loaded Objects now: 2112.
+Total: 1.453600 ms (FindLiveObjects: 0.144700 ms CreateObjectMapping: 0.047900 ms MarkObjects: 1.235500 ms  DeleteObjects: 0.024500 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001920 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\Courses\RPG\RPG Redux\RPG Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.916 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1604 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2114.
+Total: 1.689700 ms (FindLiveObjects: 0.201100 ms CreateObjectMapping: 0.063500 ms MarkObjects: 1.403800 ms  DeleteObjects: 0.020300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1394.928630 seconds.
+  path: Assets/Scripts
+  artifactKey: Guid(4da109411c8abf14ebe05c3345050bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts using Guid(4da109411c8abf14ebe05c3345050bd4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c53d938992ba63575c363ffa252b31af') in 0.010214 seconds
+  Import took 0.013946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.402584 seconds.
+  path: Assets/Scripts/UI
+  artifactKey: Guid(64ed3f6c0dbec17479f286014e31bc69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI using Guid(64ed3f6c0dbec17479f286014e31bc69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0243cffd6bb92ec2bdd97d2a49028d63') in 0.005341 seconds
+  Import took 0.007826 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.584429 seconds.
+  path: Assets/Scripts/Inventories
+  artifactKey: Guid(3862a0038ba12ec469602cbf844e7d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories using Guid(3862a0038ba12ec469602cbf844e7d5c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f3777a9c7375ec1b0c43f9253f53667c') in 0.005483 seconds
+  Import took 0.007970 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 10.094369 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f555eacf064750d3dac2b2a1159c13d4') in 0.022910 seconds
+  Import took 0.025278 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001474 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\Courses\RPG\RPG Redux\RPG Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.238 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1605 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2117.
+Total: 5.657100 ms (FindLiveObjects: 0.355400 ms CreateObjectMapping: 0.147800 ms MarkObjects: 5.124100 ms  DeleteObjects: 0.028100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001385 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\Courses\RPG\RPG Redux\RPG Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.86 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.880 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.50 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1605 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2119.
+Total: 1.620300 ms (FindLiveObjects: 0.170400 ms CreateObjectMapping: 0.058100 ms MarkObjects: 1.372500 ms  DeleteObjects: 0.018100 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.347702 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd2d6c033a394b155f9a89a13f03ac3a9') in 0.004862 seconds
+  Import took 0.007917 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.186575 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '967c277f7fa3ea6816a70ef2ea3f9e92') in 0.003460 seconds
+  Import took 0.007468 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.269901 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4b41d9426f04581a9e70120054e9d9f') in 0.002831 seconds
+  Import took 0.005491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 18.269405 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '76c81e31404b880c12f7915cdac8d789') in 0.003116 seconds
+  Import took 0.006523 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.429650 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '822bbc3d80698ccfb9359b45cfe11276') in 0.002583 seconds
+  Import took 0.005790 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.835306 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3712455e7a6821f6c6deac19f9838f91') in 0.002803 seconds
+  Import took 0.005943 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.015707 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddfc1a43141544dd36c057df9b3a20e7') in 0.003032 seconds
+  Import took 0.007295 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002497 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ddfc1a43141544dd36c057df9b3a20e7') in 0.002960 seconds
+  Import took 0.005722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.132947 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b922286281f61eb3bac8ca6550b7e83') in 0.003841 seconds
+  Import took 0.006820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.084551 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb90ebe96d91d9fd03aa2781cf0c396') in 0.002533 seconds
+  Import took 0.005138 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002039 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3cb90ebe96d91d9fd03aa2781cf0c396') in 0.002253 seconds
+  Import took 0.005478 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.247791 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '685f9564dd9258d3b30547ce3053f3c5') in 0.003044 seconds
+  Import took 0.005763 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.801401 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'decfaa5132c9dddc0c1fde76f1951f4a') in 0.004106 seconds
+  Import took 0.007081 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 48.150176 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd10b009d27db24bffece9a5a48a894b') in 0.002748 seconds
+  Import took 0.006913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.085438 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '82da6b599d0b1bd42d711d20f40e3fea') in 0.002969 seconds
+  Import took 0.006312 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 11.907259 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000296 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003516 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.038544 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000221 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002755 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023563 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000311 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003042 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.029833 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000292 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002923 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.044899 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000303 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.120632 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000284 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.120801 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000317 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018002 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000258 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002844 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118456 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000196 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002672 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.018356 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000213 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002430 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117991 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000213 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002854 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117704 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000236 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002517 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.027836 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000275 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002707 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.120014 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000226 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003006 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118306 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000190 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023435 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000209 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003097 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119727 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000167 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002210 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021095 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000183 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002162 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.026455 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000217 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002341 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019065 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000194 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002316 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118626 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000320 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002903 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020515 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000229 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002717 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021862 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000222 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003195 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119790 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000279 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003022 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.022912 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000346 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.004450 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.121605 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000342 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.019825 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000225 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002880 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.120389 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000168 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002117 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.021081 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000253 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002752 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119220 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000544 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003722 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017518 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000263 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003201 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.120116 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000273 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002741 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119189 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000405 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003321 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.117124 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000180 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002237 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.118016 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000210 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002946 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020996 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000245 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002592 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.017890 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000273 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003721 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.119538 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000176 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002224 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.023819 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000279 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.003050 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.116958 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000243 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002671 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.020798 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000306 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002937 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.120900 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000248 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.004369 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.031629 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000235 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002296 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.032283 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '00000000000000000000000000000000') in 0.000185 seconds
+  ERROR: Build asset version error: assets/scripts/inventories/shop.cs in SourceAssetDB has modification time of '2020-12-02T11:25:10.0529911Z' while content on disk has modification time of '2020-12-02T11:25:12.3924581Z'
+  Import took 0.002260 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.474572 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '500da4c3de26cd4d00ad92acc337a67b') in 0.002766 seconds
+  Import took 0.005673 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 29.413145 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '050a63e2314261952ab0e0f41954fd21') in 0.002492 seconds
+  Import took 0.004866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 167.681945 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f03f80aa2fb787fa445963598ce04d8f') in 0.007663 seconds
+  Import took 0.011686 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 251.911013 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '63bc4805ed935b605583a13a8a1eb188') in 0.003475 seconds
+  Import took 0.006734 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 25.022037 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '801408580ee4fca6cd92177e4cd6d4e0') in 0.003031 seconds
+  Import took 0.006354 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001915 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\Courses\RPG\RPG Redux\RPG Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.41 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.845 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1606 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2122.
+Total: 1.775400 ms (FindLiveObjects: 0.230300 ms CreateObjectMapping: 0.069300 ms MarkObjects: 1.449200 ms  DeleteObjects: 0.025300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 61.687679 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c5a0e0c3ec1f4200004d93604f7bacef') in 0.004262 seconds
+  Import took 0.006770 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001424 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\Courses\RPG\RPG Redux\RPG Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.896 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.52 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1606 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.5 MB.
+System memory in use after: 91.6 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2124.
+Total: 1.749600 ms (FindLiveObjects: 0.167200 ms CreateObjectMapping: 0.058100 ms MarkObjects: 1.506400 ms  DeleteObjects: 0.016600 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 91.745413 seconds.
+  path: Assets/Scripts/Inventories/Shop.cs
+  artifactKey: Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/Inventories/Shop.cs using Guid(cf7bb9ff7cc1ee648a58b685962debf6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e338ab8f6b97cc91e01bf21b0f646540') in 0.004476 seconds
+  Import took 0.007367 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 278.028446 seconds.
+  path: Assets/Scripts/UI/Shops
+  artifactKey: Guid(3cda0802c519c5447b3cd1abba80ebaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/Shops using Guid(3cda0802c519c5447b3cd1abba80ebaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ef2487b35ec233b73498983dd7ef34') in 0.006065 seconds
+  Import took 0.009032 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.005289 seconds.
+  path: Assets/Scripts/UI/Shops
+  artifactKey: Guid(3cda0802c519c5447b3cd1abba80ebaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/Shops using Guid(3cda0802c519c5447b3cd1abba80ebaa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9ef2487b35ec233b73498983dd7ef34') in 0.002948 seconds
+  Import took 0.005845 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 6.541539 seconds.
+  path: Assets/Scripts/UI/Shops/ShopUI.cs
+  artifactKey: Guid(69bea9ae78f6be2448db66de06633b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/Shops/ShopUI.cs using Guid(69bea9ae78f6be2448db66de06633b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf86ed338e587e68945392cbfe1be1c5') in 0.006358 seconds
+  Import took 0.009438 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002208 seconds.
+  path: Assets/Scripts/UI/Shops/ShopUI.cs
+  artifactKey: Guid(69bea9ae78f6be2448db66de06633b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/Shops/ShopUI.cs using Guid(69bea9ae78f6be2448db66de06633b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf86ed338e587e68945392cbfe1be1c5') in 0.002299 seconds
+  Import took 0.005963 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001976 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\Courses\RPG\RPG Redux\RPG Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.40 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.812 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.42 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1607 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.6 MB.
+System memory in use after: 91.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2127.
+Total: 2.737700 ms (FindLiveObjects: 0.365200 ms CreateObjectMapping: 0.161400 ms MarkObjects: 2.183600 ms  DeleteObjects: 0.025200 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001335 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\Courses\RPG\RPG Redux\RPG Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.47 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.873 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.45 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1607 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.6 MB.
+System memory in use after: 91.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2129.
+Total: 2.937000 ms (FindLiveObjects: 0.518100 ms CreateObjectMapping: 0.208900 ms MarkObjects: 2.191600 ms  DeleteObjects: 0.017500 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 55.227713 seconds.
+  path: Assets/Scripts/UI/Shops/ShopUI.cs
+  artifactKey: Guid(69bea9ae78f6be2448db66de06633b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/Shops/ShopUI.cs using Guid(69bea9ae78f6be2448db66de06633b49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '19416556a70198412c0089659aacd7a8') in 0.005609 seconds
+  Import took 0.008948 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 42.951970 seconds.
+  path: Assets/Scripts/UI/Shops/RowUI.cs
+  artifactKey: Guid(101241cd5b7f62044aea35b13f54bdd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/Shops/RowUI.cs using Guid(101241cd5b7f62044aea35b13f54bdd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa57e29379cf8ff5e24ecbb44c04ad85') in 0.005911 seconds
+  Import took 0.008740 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000446 seconds.
+  path: Assets/Scripts/UI/Shops/RowUI.cs
+  artifactKey: Guid(101241cd5b7f62044aea35b13f54bdd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/Shops/RowUI.cs using Guid(101241cd5b7f62044aea35b13f54bdd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'aa57e29379cf8ff5e24ecbb44c04ad85') in 0.002963 seconds
+  Import took 0.005947 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001379 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\Courses\RPG\RPG Redux\RPG Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 1.35 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.104 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.49 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1608 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.6 MB.
+System memory in use after: 91.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2132.
+Total: 2.385900 ms (FindLiveObjects: 0.252200 ms CreateObjectMapping: 0.078500 ms MarkObjects: 2.028000 ms  DeleteObjects: 0.025800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.001605 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image D:\Documents\Courses\RPG\RPG Redux\RPG Project\Library\PackageCache\com.unity.ext.nunit@1.0.0\net35\unity-custom\nunit.framework.dll
+Native extension for WindowsStandalone target not found
+Native extension for WebGL target not found
+Refreshing native plugins compatible for Editor in 0.43 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.810 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 0 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1608 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 91.6 MB.
+System memory in use after: 91.7 MB.
+
+Unloading 25 unused Assets to reduce memory usage. Loaded Objects now: 2134.
+Total: 1.930000 ms (FindLiveObjects: 0.196600 ms CreateObjectMapping: 0.065100 ms MarkObjects: 1.649000 ms  DeleteObjects: 0.018200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 32.784397 seconds.
+  path: Assets/Scripts/UI/Shops/RowUI.cs
+  artifactKey: Guid(101241cd5b7f62044aea35b13f54bdd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Scripts/UI/Shops/RowUI.cs using Guid(101241cd5b7f62044aea35b13f54bdd2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b080a046ff00dbc899e2dc14e2061ed') in 0.004614 seconds
+  Import took 0.007270 seconds .
+
